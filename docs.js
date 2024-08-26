@@ -1,5 +1,5 @@
 <script>
-
+//test
 // Constants
 const TOGGLE_DURATION = 300; // Duration in milliseconds for FAQ toggling
 const COPY_NOTIFICATION_TIMEOUT = 2000; // Duration for how long the copy notification is shown
